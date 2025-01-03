@@ -17,7 +17,6 @@ Hello! I'm [Your Name], a Linux enthusiast and open-source advocate. I'm passion
 
 Linux provides a robust and highly customizable environment, which is perfect for developers who love control and flexibility. From package managers like `apt`, `yum`, or `pacman` to powerful text editors like `vim` and `emacs`, Linux offers endless possibilities for personalizing the development workflow. I primarily use **Ubuntu**, **Arch Linux**, and **Debian**.
 
----
 
 ## 🔥 Featured Projects
 

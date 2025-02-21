@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://img1.picmix.com/output/stamp/normal/3/3/9/7/317933_eed46.gif"  />
+<img align="right" height="200" src="https://img1.picmix.com/output/stamp/normal/3/3/9/7/317933_eed46.gif"  />
 
 ###
 

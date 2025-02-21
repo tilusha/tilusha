@@ -44,6 +44,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img src="https://steamuserimages-a.akamaihd.net/ugc/811056349900359440/45AA9FDEC94DBC5FAC5848FC007106035C264563/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="Snake animation" />
 
 ###

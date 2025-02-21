@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://img.clipart-library.com/2/clip-anime-gif-background/clip-anime-gif-background-22.gif"  />
+<img align="right" height="150" src="https://img1.picmix.com/output/stamp/normal/3/3/9/7/317933_eed46.gif"  />
 
 ###
 
